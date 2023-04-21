@@ -64,3 +64,6 @@ javascript:open(html5game.src);
 //Something i NEED https://et-exploits-menu.glitch.me
 
 //REX.GARRISON@d11.org
+
+//Name page
+javascript:(function(){var title=prompt("New title?");document.title=title})();
