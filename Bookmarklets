@@ -1,5 +1,5 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META HTTP-EQUIV="Something-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Something Cheats</TITLE>
 <H1>Something Cheats</H1>
 <DL>
@@ -73,3 +73,4 @@ open(html5game.src);
 <DT><A HREF="javascript:
 //Name page
 (function(){var title=prompt("New title?");document.title=title})();
+</script>
