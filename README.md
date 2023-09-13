@@ -8,3 +8,4 @@ a-chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/manifest.json
 b-chrome://kill
 
 c-chrome://hang
+ A, B, C
